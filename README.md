@@ -1,5 +1,4 @@
 # AirVisual API Dashboard
-Air Quality API
 
 ![airvisualcomputer](https://user-images.githubusercontent.com/43038812/55748761-167ae580-5a05-11e9-9fd1-253dfdb3f965.jpg)
 
